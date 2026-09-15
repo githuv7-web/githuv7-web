@@ -24,7 +24,7 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 ### 🤝 Conectemos
 Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o simplemente hablar de código. ¡Escríbeme!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573000000000)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573016234393)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdel6538@gmail.com)
 
 ---
@@ -33,6 +33,6 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ¡Codificando al ritmo del Pirlo 420! 🔰 De Bucaramanga pa'l mundo.
 
 <p align="center">
-  <img src="./pirlo-bailando.gif" width="280" alt="Pirlo Bailando" />
-  <img src="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SmVzQpYC5Jw282r31S9YyA_500x500.png" width="220" alt="Atlético Bucaramanga" />
+  <img src="./pirlo-bailando.gif" height="250" alt="Pirlo Bailando" />
+  <img src="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SmVzQpYC5Jw282r31S9YyA_500x500.png" height="250" alt="Atlético Bucaramanga" />
 </p>
