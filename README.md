@@ -30,9 +30,9 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ---
 
 ### 🎵 Modo de trabajo...
-¡Codificando al ritmo del Pirlo 420! 🔥🔰 Cali cartel pa'l mundo.
+¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
 
-<p align="left">
-  <img src="https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif" width="180" />
-  <img src="PEGAR_AQUI_EL_LINK_DEL_ESCUDITO" width="180" />
+<p align="center">
+  <img src="https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif" width="350" />
+  <img src="https://media1.tenor.com/m/PlrW-oqW-UAAAAAd/pirlo-bailando-pirlo-420.gif" width="350" />
 </p>
