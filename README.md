@@ -1,4 +1,4 @@
-# ¡Hola! Soy Felipe Delgado 👋
+# 🔰 Soy Felipe Delgado 🔰
 
 Soy un desarrollador apasionado por crear soluciones web limpias y eficientes. Siempre estoy buscando aprender cosas nuevas, mejorar mi código y disfrutar de un buen ritmo mientras programo.
 
@@ -14,9 +14,12 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 
 ### 📊 Mis Estadísticas en GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/githuv7-web)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight" width="48%" />
+</div>
 
-[![Top Lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight)](https://github.com/githuv7-web)
+<br>
 
 ---
 
@@ -31,4 +34,5 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ### 🎵 Modo de trabajo...
 ¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
 
-![Pirlo bailando](https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif)
+<!-- AQUÍ ABAJO DEBES PEGAR EL LINK DIRECTO DEL GIF -->
+<img src="PEGAR_AQUI_EL_LINK_DEL_GIF" width="250" />
