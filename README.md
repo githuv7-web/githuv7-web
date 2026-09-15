@@ -14,10 +14,10 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es&v=3" height="160" alt="Estadísticas de GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight&v=3" height="160" alt="Lenguajes más usados" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es" height="160" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
+</p>
 
 ---
 
@@ -32,7 +32,7 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ### 🎵 Modo de trabajo...
 ¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3p4Z2RxcG1jZjR2M2Vsb2llNHRndWZ3dGRtYnd4d2dkeDNxcnV2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1FHC83fKUX3Bv9Dzp/giphy.gif" width="280" alt="Pirlo Bailando" />
+<p align="center">
+  <img src="./pirlo-bailando.gif" width="280" alt="Pirlo Bailando" />
   <img src="https://ssl.gstatic.com/onebox/media/sports/logos/optimized/SmVzQpYC5Jw282r31S9YyA_500x500.png" width="220" alt="Atlético Bucaramanga" />
-</div>
+</p>
