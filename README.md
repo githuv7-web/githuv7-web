@@ -15,8 +15,7 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 ### 📊 Mis Estadísticas en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es" height="160" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight" height="160" alt="Lenguajes más usados" />
+  <img src="https://streak-stats.demolab.com?user=githuv7-web&theme=tokyonight&locale=es" height="165" alt="GitHub Streak Stats" />
 </p>
 
 ---
