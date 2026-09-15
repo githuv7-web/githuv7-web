@@ -34,5 +34,5 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 
 <p align="center">
   <img src="https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif" width="350" />
-  <img src="https://media1.tenor.com/m/PlrW-oqW-UAAAAAd/pirlo-bailando-pirlo-420.gif" width="350" />
+  <img src="https://media.tenor.com/PlrW-oqW-UAAAAAd/pirlo-bailando-pirlo-420.gif" width="350" />
 </p>
