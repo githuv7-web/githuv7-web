@@ -21,14 +21,14 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 ---
 
 ### 🤝 Conectemos
-Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o simplemente hablar de código. ¡Contáctame!
+Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o simplemente hablar de código. ¡Escríbeme!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](AQUI_PEGA_EL_LINK_A_TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:AQUI_PON_TU_CORREO@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573000000000)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fdel6538@gmail.com)
 
 ---
 
 ### 🎵 Modo de trabajo...
 ¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
 
-![Pirlo 420](https://media.tenor.com/yP_FfB1f2-oAAAAC/pirlo-420.gif)
+![Pirlo bailando](https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif)
