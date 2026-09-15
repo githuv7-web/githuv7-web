@@ -30,7 +30,7 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ---
 
 ### 🎵 Modo de trabajo...
-¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
+¡Codificando al ritmo del Pirlo 420! 🔰 De Bucaramanga pa'l mundo.
 
 <p align="center">
   <img src="./pirlo-bailando.gif" width="280" alt="Pirlo Bailando" />
