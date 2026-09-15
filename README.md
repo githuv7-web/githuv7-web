@@ -1,6 +1,6 @@
 # 🔰 Soy Felipe Delgado 🔰
 
-Soy un desarrollador apasionado por crear soluciones web limpias y eficientes. Siempre estoy buscando aprender cosas nuevas, mejorar mi código y disfrutar de un buen ritmo mientras programo.
+Soy un  aprendiz a desarrollador apasionado por crear soluciones web limpias y eficientes. Tratando de hacerlo real desde BGA City.
 
 ---
 
