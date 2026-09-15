@@ -1,4 +1,4 @@
-# 🔰 Soy Felipe Delgado 🔰
+# ¡Hola! Soy Felipe Delgado 👋
 
 Soy un desarrollador apasionado por crear soluciones web limpias y eficientes. Siempre estoy buscando aprender cosas nuevas, mejorar mi código y disfrutar de un buen ritmo mientras programo.
 
@@ -14,12 +14,10 @@ Estos son los lenguajes principales con los que trabajo y construyo mis proyecto
 
 ### 📊 Mis Estadísticas en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight" width="48%" />
-</div>
-
-<br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=githuv7-web&show_icons=true&theme=tokyonight&locale=es&v=2" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=githuv7-web&layout=compact&theme=tokyonight&v=2" height="160" />
+</p>
 
 ---
 
@@ -32,7 +30,9 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ---
 
 ### 🎵 Modo de trabajo...
-¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
+¡Codificando al ritmo del Pirlo 420! 🔥🔰 Cali cartel pa'l mundo.
 
-<!-- AQUÍ ABAJO DEBES PEGAR EL LINK DIRECTO DEL GIF -->
-<img src="https://media1.tenor.com/m/PlrW-oqW-UAAAAAd/pirlo-bailando-pirlo-420.gif" width="250" />
+<p align="left">
+  <img src="https://media.tenor.com/PZcZpI50_hMAAAAi/pirlo-bailando-pirlo420.gif" width="180" />
+  <img src="PEGAR_AQUI_EL_LINK_DEL_ESCUDITO" width="180" />
+</p>
