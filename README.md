@@ -35,4 +35,4 @@ Siempre estoy abierto a nuevas oportunidades, resolver problemas complejos o sim
 ¡Codificando al ritmo del Pirlo 420! 🔥 Cali cartel pa'l mundo.
 
 <!-- AQUÍ ABAJO DEBES PEGAR EL LINK DIRECTO DEL GIF -->
-<img src="PEGAR_AQUI_EL_LINK_DEL_GIF" width="250" />
+<img src="https://media1.tenor.com/m/PlrW-oqW-UAAAAAd/pirlo-bailando-pirlo-420.gif" width="250" />
